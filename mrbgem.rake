@@ -1,4 +1,4 @@
-MRuby::Gem::Specification.new('mruby-enum-lazy') do |spec|
+MRuby::Gem::Specification.new('mruby-chan') do |spec|
   spec.license = 'MIT'
   spec.author  = 'cielavenir'
   spec.summary = 'Bidirectional channel like the Golang chan object'
